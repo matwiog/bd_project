@@ -15,7 +15,7 @@
 
 ![image](https://user-images.githubusercontent.com/103956127/228664215-b1520eff-a0c5-4d92-b359-f9521e773454.png)
 
-[логическая модель.NEW3.pdf](https://github.com/matwiog/bd_project/files/11105384/NEW3.pdf)
+![image](https://user-images.githubusercontent.com/103956127/228664630-1013701e-f634-49cd-bdc9-152595d9d0b9.png)
 
 Ссылка на гугл таблицу с физической моделью:
 
