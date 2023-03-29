@@ -13,7 +13,7 @@
 
 База будет во 2НФ.
 
-[концептуальная модель.NEW3.pdf](https://github.com/matwiog/bd_project/files/11105383/NEW3.pdf)
+![image](https://user-images.githubusercontent.com/103956127/228664215-b1520eff-a0c5-4d92-b359-f9521e773454.png)
 
 [логическая модель.NEW3.pdf](https://github.com/matwiog/bd_project/files/11105384/NEW3.pdf)
 
