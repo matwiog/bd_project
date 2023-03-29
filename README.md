@@ -12,4 +12,6 @@
 8.	Daily_task(ежедневные задания)
 
 База будет во 2НФ.
-![alt text](https://github.com/matwiog/bd_project/files/11105341/NEW3.pdf)
+[концептуальная модель.NEW3.pdf](https://github.com/matwiog/bd_project/files/11105383/NEW3.pdf)
+[логическая модель.NEW3.pdf](https://github.com/matwiog/bd_project/files/11105384/NEW3.pdf)
+[физическая модель.NEW3.pdf](https://github.com/matwiog/bd_project/files/11105385/NEW3.pdf)
