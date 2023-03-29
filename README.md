@@ -15,7 +15,7 @@
 
 ![image](https://user-images.githubusercontent.com/103956127/228664215-b1520eff-a0c5-4d92-b359-f9521e773454.png)
 
-![image](https://user-images.githubusercontent.com/103956127/228664630-1013701e-f634-49cd-bdc9-152595d9d0b9.png)
+![image](https://user-images.githubusercontent.com/103956127/228664854-feb1f0df-3268-4678-9b0d-0cf0d01ca186.png)
 
 Ссылка на гугл таблицу с физической моделью:
 
